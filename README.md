@@ -2,6 +2,11 @@
 
 Este projeto foi desenvolvido como parte de um checkpoint da FIAP, com o objetivo de aplicar os conceitos iniciais de arquitetura orientada a serviços (SOA) e desenvolvimento de APIs RESTful com Spring Boot. Ele consiste em um sistema para cadastrar, consultar, atualizar e deletar pedidos de clientes.
 
+## Integrantes
+
+- Gabriel Genaro Dalaqua -- RM551986
+- Paloma Mirela dos Santos -- RM551321
+  
 ## 📦 Tecnologias Utilizadas
 
 - Java 17  
